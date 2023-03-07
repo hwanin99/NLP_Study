@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://wordpress.deeplearning.ai/wp-content/uploads/2022/10/NLP-Social-Graphic-Cover-VF.png" width="700" height="350"/>
+<img src="https://wordpress.deeplearning.ai/wp-content/uploads/2022/10/NLP-Social-Graphic-Cover-VF.png" width="600" height="300"/>
 
 <br>
 
